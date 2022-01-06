@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Browser" id="1" x="56" y="56" width="929" height="777" text="Browser&#xA;http://admin.isimtl.local:8080" measuredWidth="929" measuredHeight="777" background="#eee">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="2" x="56" y="108" width="929" height="93" measuredWidth="929" measuredHeight="93" background="#46454f"/>
+  <widgets xsi:type="model:Image" id="3" x="80" y="126" measuredWidth="200" measuredHeight="58" src="assets/logo-institut-informatique.png"/>
+  <widgets xsi:type="model:Panel" id="4" x="56" y="752" width="929" height="81" measuredWidth="929" measuredHeight="81" background="#46454f"/>
+  <widgets xsi:type="model:Group" id="5" x="344" y="320" width="377" height="273" text="Connexion" measuredWidth="377" measuredHeight="273">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="7" x="448" y="528" width="185" text="Connexion" measuredWidth="185" measuredHeight="27">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="8" x="456" y="363" width="233" text="login" measuredWidth="233" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="10" x="456" y="432" width="233" text="password" measuredWidth="233" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="12" x="408" y="360" measuredWidth="32" measuredHeight="32" icon="user (large)"/>
+  <widgets xsi:type="model:Icon" id="13" x="408" y="429" measuredWidth="32" measuredHeight="32" icon="secure (large)"/>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>

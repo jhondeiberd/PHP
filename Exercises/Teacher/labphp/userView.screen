@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Browser" id="1" x="56" y="56" width="929" height="777" text="Browser&#xA;http://user.isimtl.local:8080" measuredWidth="929" measuredHeight="777" background="#eee">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="2" x="56" y="108" width="929" height="93" measuredWidth="929" measuredHeight="93" background="#46454f"/>
+  <widgets xsi:type="model:Image" id="3" x="80" y="126" measuredWidth="200" measuredHeight="58" src="assets/logo-institut-informatique.png"/>
+  <widgets xsi:type="model:Panel" id="4" x="56" y="752" width="929" height="81" measuredWidth="929" measuredHeight="81" background="#46454f"/>
+  <widgets xsi:type="model:Group" id="121" x="108" y="205" width="837" text="Days selection" measuredWidth="837" measuredHeight="100">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:RadioButton" id="114" x="125" y="256" text="Lundi" measuredWidth="50" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:RadioButton" id="115" x="184" y="256" text="Mardi" measuredWidth="53" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:RadioButton" id="116" x="242" y="256" text="Mercredi" measuredWidth="71" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:RadioButton" id="117" x="320" y="256" text="Jeudi" measuredWidth="47" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:RadioButton" id="118" x="371" y="256" text="Vendredi" measuredWidth="70" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:RadioButton" id="119" x="448" y="256" text="Samedi" measuredWidth="62" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="122" x="125" y="223" text="Day" measuredWidth="41" measuredHeight="34">
+    <font size="19px"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="123" x="576" y="223" text="Periode" measuredWidth="77" measuredHeight="34">
+    <font size="19px"/>
+  </widgets>
+  <widgets xsi:type="model:RadioButton" id="124" x="592" y="256" text="AM" measuredWidth="39" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:RadioButton" id="125" x="649" y="256" text="PM" measuredWidth="38" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="126" x="855" y="221" width="80" height="68" text="View" measuredWidth="80" measuredHeight="68" background="#46454f">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Image" id="127" x="174" y="336" measuredWidth="623" measuredHeight="339" src="assets/plan.png"/>
+  <widgets xsi:type="model:Shape" id="128" x="192" y="392" width="64" height="72" measuredWidth="64" measuredHeight="72" background="#0f0" alpha="64" border="false" shapeType="rectangle">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Shape" id="129" x="192" y="480" width="64" height="72" measuredWidth="64" measuredHeight="72" background="#f00" alpha="64" foreground="#f00" border="false" shapeType="rectangle">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Shape" id="130" x="192" y="584" width="64" height="72" measuredWidth="64" measuredHeight="72" background="#0f0" alpha="64" border="false" shapeType="rectangle">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Shape" id="131" x="711" y="607" width="73" height="65" measuredWidth="73" measuredHeight="65" background="#0f0" alpha="64" border="false" shapeType="rectangle">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Shape" id="132" x="720" y="551" width="73" height="42" measuredWidth="73" measuredHeight="42" background="#0f0" alpha="64" border="false" shapeType="rectangle">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Shape" id="133" x="733" y="504" width="60" height="33" measuredWidth="60" measuredHeight="33" background="#0f0" alpha="64" border="false" shapeType="rectangle">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Shape" id="134" x="648" y="600" width="40" height="64" measuredWidth="40" measuredHeight="64" background="#f00" alpha="64" border="false" shapeType="rectangle">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Shape" id="137" x="312" y="576" width="129" height="42" measuredWidth="129" measuredHeight="42" background="#f00" alpha="64" border="false" shapeType="rectangle">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>
